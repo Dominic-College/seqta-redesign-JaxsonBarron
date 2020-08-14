@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+header {
+	background-color: rgb(139, 27, 64);
+	border-bottom: solid 5px rgb(138, 168, 216);	
+}
+
+div {
+	border-bottom: solid 15px rgb(134, 116, 70);
+}
+
+body {
+	width: 80;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgb(30, 52, 93);
+}
+
+p {
+	width: 80;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgb(30, 52, 93);
+	color: rgb(241, 242, 244);	
+}
+
+h1 {
+	color: rgb(241, 242, 244);	
+	font-size: 70px;
+}
+.CaptainsPhotos {
+	display: inline-block;
+}
+
+.JackiePhoto {
+	padding-left: 450px;
+	padding-right:0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	display: inline-block;
+}
+.AlexText {
+	background-color: rgb(137, 169, 226);
+	padding: 20px 20px 20px 20px;
+	border: black solid 5px;
+	width: 160px;
+}
+
+.JackieText {
+	background-color: rgb(137, 169, 226);
+	padding: 20px 20px 20px 20px;
+	border: black solid 5px;
+	width: 160px;
+	display: inline-block;
+}
