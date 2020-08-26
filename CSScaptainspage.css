@@ -31,14 +31,15 @@ h1 {
 	display: block;
 }
 
-.JackiePhoto {
+.FemalePhoto {
 	float: right;
 	margin-right: 290px;
+	width: 210px;
 }
-.AlexPhoto {
+.MalePhoto {
 	margin-left: 290px;
 }
-.AlexText {
+.MaleText {
 	background-color: rgb(134, 116, 70);
 	margin-left: 290px;
 	border: black solid 5px;
@@ -48,11 +49,22 @@ h1 {
 	padding-left: 10px;
 }
 
-.JackieText {
+.FemaleText {
 	background-color: rgb(134, 116, 70);
 	border: black solid 5px;
 	width: 160px;
 	padding-right: 30px;
+	padding-left: 10px;
+	display: block;
+	float: right;
+	margin-right: 290px;
+}
+
+.CassieText {
+	background-color: rgb(134, 116, 70);
+	border: black solid 5px;
+	width: 160px;
+	padding-right: 10px;
 	padding-left: 10px;
 	display: block;
 	float: right;
