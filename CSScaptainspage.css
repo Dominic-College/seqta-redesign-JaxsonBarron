@@ -18,6 +18,7 @@ h1 {
 	color: rgb(241, 242, 244);	
 	font-size: 70px;
 	text-align: center;
+	display: block;
 }
 .CaptainsPhotos {
 	display: block;
@@ -33,7 +34,7 @@ h1 {
 	background-color: rgb(134, 116, 70);
 	border: black solid 5px;
 	width: 160px;
-	display: block;
+	display: inline-block;
 	padding-right: 30px;
 	padding-left: 10px;
 }
@@ -56,6 +57,11 @@ h1 {
 	width: 930px;
 	margin: auto;
 }
+.HouseCaptainsText {
+	display: block;
+	width: 930px;
+	margin: auto;
+}
 .creative {
 	padding-left: 26px;
 }
@@ -64,4 +70,40 @@ h1 {
 }
 .sport {
 	padding-left: 26px;
+}
+.CreativeText {
+	background-color: rgb(134, 116, 70);
+	border: black solid 5px;
+	width: 160px;
+	padding-right: 30px;
+	padding-left: 10px;
+	display: inline-block;
+}
+.AcademicText {
+	background-color: rgb(134, 116, 70);
+	border: black solid 5px;
+	width: 160px;	
+	padding-right: 30px;
+	padding-left: 10px;
+	display: inline-block;
+}
+.SportText {
+	background-color: rgb(134, 116, 70);
+	border: black solid 5px;
+	width: 160px;
+	padding-right: 30px;
+	padding-left: 10px;
+	display: inline-block;
+}
+.MissionText {
+	background-color: rgb(134, 116, 70);
+	border: black solid 5px;
+	width: 160px;
+	padding-right: 30px;
+	padding-left: 10px;
+	display: inline-block;	
+}
+.spacer {
+	padding-left: 26px;
+	display: inline-block;
 }
