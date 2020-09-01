@@ -62,16 +62,16 @@ h1 {
 	width: 930px;
 	margin: auto;
 }
-.creative {
+.Siena {
 	padding-left: 26px;
 }
-.academic {
+.Bosco {
 	padding-left: 26px;
 }
-.sport {
+.Guzman {
 	padding-left: 26px;
 }
-.CreativeText {
+.SienaText {
 	background-color: rgb(134, 116, 70);
 	border: black solid 5px;
 	width: 160px;
@@ -79,7 +79,7 @@ h1 {
 	padding-left: 10px;
 	display: inline-block;
 }
-.AcademicText {
+.BoscoText {
 	background-color: rgb(134, 116, 70);
 	border: black solid 5px;
 	width: 160px;	
@@ -87,7 +87,7 @@ h1 {
 	padding-left: 10px;
 	display: inline-block;
 }
-.SportText {
+.GuzmanText {
 	background-color: rgb(134, 116, 70);
 	border: black solid 5px;
 	width: 160px;
@@ -95,7 +95,7 @@ h1 {
 	padding-left: 10px;
 	display: inline-block;
 }
-.MissionText {
+.SavioText {
 	background-color: rgb(134, 116, 70);
 	border: black solid 5px;
 	width: 160px;
