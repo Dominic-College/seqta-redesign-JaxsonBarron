@@ -1,6 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
 
+img {
+	width: 210px;
+}
 
 body {
 	background-color: rgb(30, 52, 93);
