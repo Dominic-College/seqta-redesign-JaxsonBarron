@@ -5,16 +5,27 @@ img {
 	width: 210px;
 }
 
-body {
+{
+	color: rgb(241, 242, 244);
 	background-color: rgb(30, 52, 93);
 }
 
-p {
-	width: 80;
-	margin-left: auto;
-	margin-right: auto;
+body {
 	background-color: rgb(30, 52, 93);
-	color: rgb(241, 242, 244);	
+}
+.HosueMO {
+	width: 930px;
+}
+
+.CaptainsMO {
+	width: 490px;
+}
+p {
+	margin: auto;
+	background-color: rgb(30, 52, 93);
+	color: rgb(241, 242, 244);
+	display: block;
+	padding-bottom: 40px;
 }
 
 h1 {
@@ -33,23 +44,15 @@ h1 {
 	padding-left: 70px;
 	float: right;
 }	
-.MaleText {
+h4 {
 	background-color: rgb(134, 116, 70);
-	border: black solid 5px;
+	border: black solid 2px;
 	width: 160px;
 	display: inline-block;
-	padding-right: 30px;
-	padding-left: 10px;
+	padding-right: 33px;
+	padding-left: 13px;
 }
 
-.FemaleText {
-	background-color: rgb(134, 116, 70);
-	border: black solid 5px;
-	width: 160px;
-	padding-right: 30px;
-	padding-left: 10px;
-	float: right;
-}
 .CaptainsText {
 	display: block;
 	margin: auto;
@@ -74,39 +77,11 @@ h1 {
 .Guzman {
 	padding-left: 26px;
 }
-.SienaText {
-	background-color: rgb(134, 116, 70);
-	border: black solid 5px;
-	width: 160px;
-	padding-right: 30px;
-	padding-left: 10px;
-	display: inline-block;
-}
-.BoscoText {
-	background-color: rgb(134, 116, 70);
-	border: black solid 5px;
-	width: 160px;	
-	padding-right: 30px;
-	padding-left: 10px;
-	display: inline-block;
-}
-.GuzmanText {
-	background-color: rgb(134, 116, 70);
-	border: black solid 5px;
-	width: 160px;
-	padding-right: 30px;
-	padding-left: 10px;
-	display: inline-block;
-}
-.SavioText {
-	background-color: rgb(134, 116, 70);
-	border: black solid 5px;
-	width: 160px;
-	padding-right: 30px;
-	padding-left: 10px;
-	display: inline-block;	
-}
+
 .spacer {
 	padding-left: 26px;
 	display: inline-block;
+}
+.FemaleText {
+	float: right;
 }
